@@ -27,6 +27,18 @@ a{
     margin-left: 25px;
 }
 
+
+
+body {
+    background-color: #d9dcd6;
+}
+
+main{
+    display: inline-block;
+    width: 76.5%;
+
+}
+
 h2{
     margin-bottom: 20px;
     font-size: 36px;
@@ -36,12 +48,6 @@ h2{
 h3{
     margin-bottom: 10px;
     text-align: center;
-}
-
-main{
-    display: inline-block;
-    width: 76.5%;
-
 }
 
 section{
@@ -78,11 +84,6 @@ aside{
     color: #d9dcd6;
 }
 
-
-
-body {
-    background-color: #d9dcd6;
-}
 
 #hero{
     width: 100%;
